@@ -11,6 +11,6 @@
     <title>就是这么牛</title>
   </head>
   <body>
-  <h2 style="color: red;">云霞，云霞，我爱你，就像老鼠爱大米</h2>
+  <h2 style="color: red;">云霞，云霞，我爱你，就像老鼠爱大米...</h2>
   </body>
 </html>
